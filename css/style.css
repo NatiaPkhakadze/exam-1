@@ -15,7 +15,8 @@ body {
     width: 100%;
     display: flex;
     background-image: url(../image/Group\ 72.jpg);
-    background-size: 100% 100%;
+    background-size:100%;
+    background-repeat: no-repeat;
 }
 .main-container {
 margin: 0 140px;
@@ -41,7 +42,7 @@ li.active {
 .page-title {
         position: absolute;
     top: 140px;
-    color: white;
+    color: #FFFFFF;
 }
 .text-1{
     font-size: 42px;
@@ -99,7 +100,7 @@ li.active {
     height: 50px;
     gap: 15px;
     background-color: #5863f8;
-    color: white;
+    color: #FFFFFF;
     margin-top: 15px;
     display: flex;
     justify-content: center;
@@ -199,7 +200,7 @@ li.active {
     max-width: 335px;
     width: 100%;
     font-size: 42px;
-    color: white;
+    color: #FFFFFF;
     margin-top: 10px;
 }
 .boxes-div {
@@ -216,7 +217,7 @@ li.active {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: white;
+    background-color:#FFFFFF;
     align-items: center;
 }
 .circle-blue{
@@ -229,7 +230,7 @@ li.active {
     justify-content: center;
 }
 .fa-hotel {
-    color: white;
+    color: #FFFFFF;
     font-size: 20px;
 }
 .boxes-div h3 {
@@ -317,7 +318,7 @@ li.active {
 }
 .footer-title1{
     font-size: 24px;
-    color: white;
+    color:#FFFFFF;
     font-family: 'Poppins Bold', sans-serif;
 }
 .footer-text{
@@ -343,7 +344,7 @@ li.active {
     align-items: center;
 }
 .fa-brands{
-    color: white;
+    color: #FFFFFF;
 }
 .text-block-footer:nth-child(2){
     margin-left: 55px;
@@ -360,7 +361,7 @@ li.active {
 .footer-title{
     font-size: 18px;
     font-family: 'Poppins SemiBold', sans-serif;
-    color: white;
+    color: #FFFFFF;
 }
 .footer-list{
     font-size: 14px;
